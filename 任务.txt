@@ -1,0 +1,26 @@
+任务:
+1. 切 TFS
+
+2. TAIR优化
+
+
+3. 完善memcache监控列表
+   编写监控脚本 完成
+   添加监控项
+
+4. 跳板机
+http://www.jumpserver.org/
+
+5. nginx lua
+https://github.com/loveshell/ngx_lua_waf
+https://github.com/unixhot/waf
+
+6. 煎豆
+https://github.com/bdqy/jandan_spider
+
+7. 数据迁移  快盘 -> 百度盘
+
+
+8. 公网IP 61.130.247.173
+
+9. jd zj1985
